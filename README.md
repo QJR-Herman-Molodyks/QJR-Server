@@ -3,6 +3,7 @@
 
 Here's an official executable for Windows.
 
+```
 License   -> MIT
 OS        -> Windows 10+
 Framework -> TCL / Tkinter + CustomTK
@@ -13,3 +14,4 @@ Website   -> sites.google.com/view/qjr
 Developed by:
 - Herman Pryshchepa (YT_MOLODYKS_Q)
 - Datsiuk Bogdan    (DATSIUK)
+```
